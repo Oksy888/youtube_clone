@@ -27,7 +27,7 @@ export const videos = [
     duration: 31,
     thumbnailUrl: 'https://i.ytimg.com/vi/ClPG3BZTfWg/hqdefault.jpg',
     videoUrl:
-      'blob:https://www.youtube.com/11fec963-2bfc-45fc-adca-6d66686cb7f8',
+      'https://www.youtube.com/embed/ClPG3BZTfWg?si=FmfF3kLLVPc-GRAR',
   },
   {
     id: '0mxeS0i6l8w',
