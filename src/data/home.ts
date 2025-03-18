@@ -20,14 +20,14 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Oksana3dfit',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 67,
     postedAt: new Date('2024-01-01'),
     duration: 31,
     thumbnailUrl: 'https://i.ytimg.com/vi/ClPG3BZTfWg/hqdefault.jpg',
     videoUrl:
-      'https://v16m-default.akamaized.net/1c0c2f60f47a458b21431e220801ff28/65f732a2/video/tos/maliva/tos-maliva-ve-0068c801-us/oMwEQDqnQOCBYJDebSlRBQAVIeZY7GEucy4A6J/?a=0&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&br=728&bt=364&bti=bGRuZHxvMXIxcm53Zm1cYF9ebWFzaHFmOg%3D%3D&cs=0&ds=6&ft=aEKpCqT0m7jPD12zAdZR3wULSDyKMeF~O5&mime_type=video_mp4&qs=13&rc=M2gzOWQ6ZnZ2bjMzNzczM0BpM2gzOWQ6ZnZ2bjMzNzczM0BpMzBzcjRnMWBgLS1kMTZzYSNpMzBzcjRnMWBgLS1kMTZzcw%3D%3D&vvpl=1&l=202403171211586180B434999C82186D03&btag=e00048000&cc=3',
+      'blob:https://www.youtube.com/11fec963-2bfc-45fc-adca-6d66686cb7f8',
   },
   {
     id: '0mxeS0i6l8w',
@@ -36,7 +36,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Oksana3dfit',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2024-03-01'),
@@ -53,7 +53,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Fit&Beauty',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
@@ -70,7 +70,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Fit&Beauty',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
@@ -87,7 +87,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Fit&Beauty',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+         'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82000,
     postedAt: new Date('2023-03-01'),
@@ -121,7 +121,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Fit&Beauty',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 820056,
     postedAt: new Date('2023-03-01'),
@@ -138,7 +138,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Fit&Beauty',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+         'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
@@ -155,7 +155,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Oksana3dfit',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
@@ -172,7 +172,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Oksana3dfit',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
@@ -189,7 +189,7 @@ export const videos = [
       name: 'Fit&Beauty',
       id: 'Oksana3dfit',
       profileUrl:
-        'https://yt3.googleusercontent.com/uWFiv7By7sYLN5Yz_Jypn38r3sFTFxPStikHgKj7x9QIKkHuqsp8ToT1HiJEI9HhlR8heS6NS1o=s900-c-k-c0x00ffffff-no-rj',
+         'https://yt3.ggpht.com/E_CgITtboU3MMO-GNANImozTPvDd68UgW22kfJMLtm_3YA5_0Y9-WmTRoT7RHIorGn0VyfOr=s48-c-k-c0x00ffffff-no-rj',
     },
     views: 82,
     postedAt: new Date('2023-03-01'),
